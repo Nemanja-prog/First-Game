@@ -1,2 +1,2 @@
 # First-Game
-BlackJAck
+BlackJack
