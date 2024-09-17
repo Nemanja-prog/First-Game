@@ -1,2 +1,2 @@
 # First-Game
-BlackJack
+BlackJack - sa sajta
